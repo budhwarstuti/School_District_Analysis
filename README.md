@@ -86,7 +86,7 @@ Rest data remained unaffected.
 Scores_By_School_Size_Before
 **![Scores_By_School_Size_Before](./Resources/scores_by_school_size_before.png)**
 
-Scores_By_School_Size_After
+* Scores_By_School_Size_After
 **![Scores_By_School_Size_After](./Resources/scores_by_school_size_after.png)**
 
 Since Thomas High School fell in the Medium Category(1000-2000), 
