@@ -40,16 +40,16 @@ Per_School_Summary_After
 * Math and reading scores by grade:
 
 Average_Math_Score_By_Grade_Before
-**![Average_Math_Score_By_Grade_Before](./Resources/average_math_score_by_grade_before.png)**
+![Average_Math_Score_By_Grade_Before](./Resources/average_math_score_by_grade_before.png)
 
 Average_Math_Score_By_Grade_After
-**![Average_Math_Score_By_Grade_After](./Resources/average_math_score_by_grade_after.png)**
+![Average_Math_Score_By_Grade_After](./Resources/average_math_score_by_grade_after.png)
 
 Average_Reading_Score_By_Grade_Before
-**![Average_Reading_Score_By_Grade_Before](./Resources/average_reading_score_by_grade_before.png)**
+![Average_Reading_Score_By_Grade_Before](./Resources/average_reading_score_by_grade_before.png)
 
-Average_Raading_Score_By_Grade_After
-**![Average_Raading_Score_By_Grade_After](./Resources/average_reading_score_by_grade_after.png)**
+Average_Reading_Score_By_Grade_After
+![Average_Raading_Score_By_Grade_After](./Resources/average_reading_score_by_grade_after.png)
 
 * The average math and reading scores of Thomas High School bacame 0 from 83.6 and 83.7 respectively.
 * The rank of Thomas High School which was 2nd on the list moved down to 8th position duw to the change.
