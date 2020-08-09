@@ -31,7 +31,7 @@ Per_School_Summary_After
 * % Passing Students for Math and Reading for Thomas High School came considerable down from 93.27% to 66.91% and 97.31% to 69.66% respectively.
 * % Overall passing students for Thomas High School came down from 90.95% to 65.08%.
 
-### Replacing the ninth graders’ math and reading scores affected Thomas High School’s performance drastically when compared to other schools.
+### Replacing the ninth gradersâ€™ math and reading scores affected Thomas High Schoolâ€™s performance drastically when compared to other schools.
 * Average Math Score and Average Reading scores dropped to 23-25.
 * % Passing Students for Math and Reading dropped to almost 27%.
 * % Overall passing students dropped to almost 25%.
@@ -42,7 +42,7 @@ Per_School_Summary_After
 Average_Math_Score_By_Grade_Before
 **![Average_Math_Score_By_Grade_Before](./Resources/average_math_score_by_grade_before.png)**
 
-**Average_Math_Score_By_Grade_After**
+Average_Math_Score_By_Grade_After
 **![Average_Math_Score_By_Grade_After](./Resources/average_math_score_by_grade_after.png)**
 
 Average_Reading_Score_By_Grade_Before
@@ -86,7 +86,7 @@ Rest data remained unaffected.
 Scores_By_School_Size_Before
 **![Scores_By_School_Size_Before](./Resources/scores_by_school_size_before.png)**
 
-* Scores_By_School_Size_After
+Scores_By_School_Size_After
 **![Scores_By_School_Size_After](./Resources/scores_by_school_size_after.png)**
 
 Since Thomas High School fell in the Medium Category(1000-2000), 
@@ -97,11 +97,10 @@ Rest data remained unaffected.
 
 
 * Scores by school type
-
 Scores_By_School_Type_Before
 **![Scores_By_School_Type_Before](./Resources/scores_by_school_type_before.png)**
 
-**Scores_By_School_Type_After**
+Scores_By_School_Type_After
 **![Scores_By_School_Type_After](./Resources/scores_by_school_type_after.png)**
 
 Since Thomas High School fell in the Charter category, 
